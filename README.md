@@ -2,7 +2,7 @@
 - 👀 I’m interested in cat
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on people project
-- 📫 How to reach me via ig : rrafi_07
+- 📫 How to reach me via ig : rafii_asia
 
 <!---
 Vinviri/Vinviri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
